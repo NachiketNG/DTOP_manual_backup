@@ -1,2 +1,2 @@
 # DTOP
-Plotting DTOPR for Hermitian SSH
+Plotting DTOP for Hermitian SSH
